@@ -4,14 +4,15 @@
 		"Title": "Night Watch",
 		"Authors": "Sergei Lykyanenko",
 		"Genre": "Fantasy",
-		"Year": "1998",
+		"Year": "1998"
 
 	},
 	{
-		"Title": "Automatic Feedback Generation for Dialog-Based Language Tutors Using Transformer Models and Active Learning",
-		"Authors": "Stasaski, K. and Ramanarayanan, V.",
-		"Venue": "Human-in-the-Loop Dialogue Systems Workshop",
-		"Year": "2020"
+		"Ranking": "2",
+		"Title": "Night Watch",
+		"Authors": "Sergei Lykyanenko",
+		"Genre": "Fantasy",
+		"Year": "1998"
 	},
 	{
 		"Title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
