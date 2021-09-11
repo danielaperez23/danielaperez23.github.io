@@ -1,5 +1,5 @@
 {
-	"Favorite books": [{
+	"Top 5 Favorite books": [{
 		"Title": "Night Watch",
 		"Author": "Sergei Lykyanenko",
 		"Genre": "Fantasy",
@@ -7,29 +7,32 @@
 		"Ranking": "1"
 	},
 	{
-		"Title": "The name of the wind",
+		"Title": "The Name of the Wind",
 		"Author": "Patrick Rothffus",
 		"Genre": "Fantasy",
 		"Year": "2007",
 		"Ranking": "2"
 	},
 	{
-		"Title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
-		"Authors": "Stasaski, K., Yang, G., and Hearst, M.A.",
-		"Venue": "ACL",
-		"Year": "2020"
+		"Title": "The Stranger",
+		"Author": "Albert Camus",
+		"Genre": "Philosophical",
+		"Year": "1946",
+		"Ranking": "3"
 	},
 	{
-		"Title": " Construction of a Large Open Access Dialogue Dataset for Tutoring",
-		"Authors": "Stasaski, K., Kao, K., and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2020"
+		"Title": "The Plague",
+		"Author": "Albert Camus",
+		"Genre": "Philosophical",
+		"Year": "1947",
+		"Ranking": "4"
 	},
 	{
-		"Title": "Multiple Choice Question Generation Utilizing an Ontology",
-		"Authors": "Stasaski, K and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2017"
+		"Title": "The Catcher in the Rye",
+		"Author": "J.D. Sallinger",
+		"Genre": "Realism",
+		"Year": "1951",
+		"Ranking": "5"
 	}]
 
 }
