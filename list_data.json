@@ -1,9 +1,11 @@
 {
-	"publications": [{
-		"Title": "Automatically Generating Cause-and_Effect Questions from Passages",
-		"Authors": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2021"
+	"Favorite books": [{
+		"Ranking": "1",
+		"Title": "Night Watch",
+		"Authors": "Sergei Lykyanenko",
+		"Genre": "Fantasy",
+		"Year": "1998",
+
 	},
 	{
 		"Title": "Automatic Feedback Generation for Dialog-Based Language Tutors Using Transformer Models and Active Learning",
@@ -29,5 +31,5 @@
 		"Venue": "BEA Workshop",
 		"Year": "2017"
 	}]
-	
+
 }
