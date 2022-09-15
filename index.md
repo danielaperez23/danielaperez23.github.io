@@ -5,3 +5,4 @@ Currently studying a Master in Information Management and Systems at UC Berkeley
 Bachelor in I/O Psychology.
 
 
+
