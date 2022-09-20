@@ -1,3 +1,6 @@
-Project 1
+## Project 1
 
-Learned how to work on a github repo from the terminal and how to use collaboration tools, using branches for version control.
+Main learnings:
+ - Github repository management: Learnt how to work on a github repo from the terminal.
+ - Github collaboration tools: Learnt how to use github collaboration tools and branching for version control.
+ - Github personal page: Learnt how to configure a personal page on Github by assing basic content to it.
