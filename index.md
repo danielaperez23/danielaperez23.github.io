@@ -6,7 +6,7 @@
 
 ### Master in Information Management and Systems at UC Berkeley.
 
-Focusing on People Science and Analytics.
+Focused on People Science and Analytics.
 
 
 
